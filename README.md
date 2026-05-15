@@ -1,4 +1,4 @@
-# Aviora
+# Aviora (A Real Time Voice-Driven Intelligent System)
 
 Aviora is a voice-enabled interview prep and learning companion: companion lessons, a dashboard for sessions, and **Interview Mode**—a timed mock interview flow with resume context, optional Supabase-backed history, and a post-session debrief.
 
@@ -129,6 +129,7 @@ Notable routes:
 ---
 
 ## Vision & roadmap
+
 
 Long-term goals include deeper question banks, rubric scoring, analytics, and job-seeker tooling (resume checklist, application tracker). Interview Mode’s voice loop, debrief, and optional Supabase persistence are the current foundation for that direction.
 
